@@ -1,6 +1,7 @@
 # Caching Proxy
 
-https://github.com/Akashm311/caching_proxy
+https://roadmap.sh/projects/caching-server
+
 A CLI tool that starts a caching proxy server. It forwards requests to the origin server and caches the responses. If the same request is made again, it returns the cached response instead of forwarding to the origin server.
 
 ## Installation
